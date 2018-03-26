@@ -1,0 +1,2 @@
+New file 2 for feature branch 1
+Some random text
